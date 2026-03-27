@@ -21,7 +21,7 @@ Manor is a Souls-Lite Game. You enter the Manor intending to retrieve the Manor 
 ## Status
 Completed, submitted to the  university(semester project)
 
-# How To Run
+## How To Run
 - Clone this repository to your Computer.
 - Open the "Manor.uproject" in Unreal 5.3+.
 - Enjoy! :>
